@@ -15,6 +15,7 @@ void deleteKey(product ht[],int size);
 void display(product ht[],int size);
 int hashKey(int,int);
 
+
 int main()
 {
 	int choise;
